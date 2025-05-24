@@ -1,34 +1,42 @@
-# Hi there! 👋 I'm Swastik Bansal
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=swastikbansal.swastikbansal&left_text=Profile%20Views"  />
+</div>
+<h1 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+I'm+Swastik+Bansal" alt="Typing SVG" /></a>
+</h1>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-bansal-40642b212/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastikbansal0@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917024069004)
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:swastikbansal0@gmail.com.com">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=" height="36" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/swastikbansal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=" height="36" alt="linkedin logo" />
+  </a>
 </div>
 
+
 ## 🚀 About Me
+
+<img align="right" width = "360" height="360" src="Assets/developer.gif"/>
 
 > *"A dedicated and enthusiastic data science advocate, hooked on coding and AI since the age of 16. Eager to create smart, AI-powered solutions that solve real-world problems and make a meaningful difference in people's lives."*
 
 - 🎓 **Currently pursuing B.Tech in Computer Science** with specialization in **AI/ML** at Acropolis Institute of Technology & Research, Indore
+
 - 🏆 **Winner of Smart India Hackathon (SIH) 2024** - National Level Competition
+
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and **AI-powered solutions**
+
 - 🌟 Experience in leading teams and developing impactful projects
+
 - 📍 Based in Dewas, Madhya Pradesh, India
+
+<br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,django,mysql,sqlite,selenium,firebase,aws,tensorflow,pytorch,opencv,flask,git,vscode,anaconda,linux,windows,"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -77,9 +85,20 @@ Developed intelligent software to assist medical experts in analyzing symptoms a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastikbansal&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikbansal&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=swastikbansal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&rank_icon=github&border_radius=10&locale=en&hide_border=true" height="160" alt="stats graph"/>
+
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=swastikbansal&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikbansal&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&hide_title=false&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="160" alt="languages graph" />
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swastikbansal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swastikbansal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&bg_color=00000000">
+
+</div>
 
 </div>
 
