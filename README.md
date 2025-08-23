@@ -56,7 +56,6 @@ Developed intelligent software to assist medical experts in analyzing symptoms a
 - 🥇 **Winner** - Smart India Hackathon (SIH) 2024 (National Level)
 - 🥇 **1st Prize** - "Hackwave" National Hackathon at Chameli Devi Group of Institutes (April 2024)
 - 🥈 **2nd Prize** - "Codespire Project 2023" at Acropolis Group of Institutes (March 2023)
-- 💰 **Grant Secured** - $4000 IEEE HTB Grant during tenure as Treasurer of IEEE SIGHT, Acropolis
 
 ## 📚 Education & Certifications
 
